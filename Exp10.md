@@ -1,6 +1,6 @@
 2CSE18_2410030134:
 
-1. Display employees from dept 10 earning more than ANY employee of other departments.
+# 1. Display employees from dept 10 earning more than ANY employee of other departments.
 SELECT ENAME
 FROM EMPLOYEE
 WHERE DEPTNO=10
