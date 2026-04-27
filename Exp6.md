@@ -1,7 +1,7 @@
 #USE 2cse18_2410030134;
-~~~sql
-SHOW TABLES;
-~~~
+
+#SHOW TABLES;
+
 ~~~sql
 SELECT * FROM DEPARTMENT;
 ~~~
